@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мониторинг курсов USDT и MOEX фьючерсов</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #58a6ff;
+            font-size: 28px;
+        }
+        
+        h2 {
+            color: #58a6ff;
+            font-size: 20px;
+            margin: 20px 0 15px 0;
+        }
+        
+        .info-box {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+        
+        .success-box {
+            background-color: #1a2f1a;
+            border: 1px solid #3fb950;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #3fb950;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            margin-bottom: 30px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #161b22;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+        }
+        
+        th {
+            background-color: #21262d;
+            color: #f0f6fc;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 2px solid #30363d;
+        }
+        
+        td {
+            padding: 15px;
+            border-bottom: 1px solid #30363d;
+            font-size: 14px;
+        }
+        
+        tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .exchange-name {
+            font-weight: 600;
+            color: #58a6ff;
+        }
+        
+        .moex-name {
+            font-weight: 600;
+            color: #f85149;
+        }
+        
+        .pair {
+            color: #8b949e;
+            font-family: 'Monaco', 'Consolas', monospace;
+        }
+        
+        .bid {
+            color: #3fb950;
+            font-weight: 500;
+        }
+        
+        .ask {
+            color: #f85149;
+            font-weight: 500;
+        }
+        
+        .price {
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 16px;
+        }
+        
+        .volume-info {
+            font-size: 12px;
+            color: #8b949e;
+        }
+        
+        .loading {
+            color: #8b949e;
+            font-style: italic;
+        }
+        
+        .error {
+            color: #f85149;
+            font-style: italic;
+        }
+        
+        .last-update {
+            text-align: center;
+            color: #8b949e;
+            font-size: 12px;
+            margin-top: 10px;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            margin-right: 5px;
+            background-color: #3fb950;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+        
+        .moex-section {
+            margin-top: 40px;
+        }
+        
+        .contract-type {
+            font-size: 11px;
+            color: #8b949e;
+            display: block;
+            margin-top: 2px;
+        }
+        
+        .server-status {
+            text-align: center;
+            margin: 20px 0;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        .server-online {
+            background-color: #1a2f1a;
+            border: 1px solid #3fb950;
+            color: #3fb950;
+        }
+        
+        .server-offline {
+            background-color: #2f1a1a;
+            border: 1px solid #f85149;
+            color: #f85149;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 24px;
+            }
+            
+            th, td {
+                padding: 10px;
+                font-size: 12px;
+            }
+            
+            .price {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>💹 Мониторинг курсов USDT и MOEX фьючерсов</h1>
+        
+        <div class="info-box">
+            <strong>ℹ️ Информация:</strong> Отображаются курсы bid и ask для объема 50,000 USDT на криптобиржах. 
+            Для MOEX показаны цены фьючерсов USD/RUB (1 лот = 1000 USD). Данные обновляются каждые 5 секунд.
+        </div>
+
+        <div id="serverStatus" class="server-status server-offline">
+            🔴 Проверка подключения к MOEX серверу...
+        </div>
+        
+        <h2>📊 Криптовалютные биржи</h2>
+        <div class="table-container">
+            <table id="cryptoTable">
+                <thead>
+                    <tr>
+                        <th>Биржа</th>
+                        <th>Пара</th>
+                        <th>BID 50k$</th>
+                        <th>ASK 50k$</th>
+                        <th>Спред</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr id="rapira-usdt-rub">
+                        <td class="exchange-name">RAPIRA</td>
+                        <td class="pair">USDT/RUB</td>
+                        <td class="bid price">-</td>
+                        <td class="ask price">-</td>
+                        <td class="spread">-</td>
+                    </tr>
+                    <tr id="grinex-usdt-rub">
+                        <td class="exchange-name">GRINEX</td>
+                        <td class="pair">USDT/RUB</td>
+                        <td class="bid price">-</td>
+                        <td class="ask price">-</td>
+                        <td class="spread">-</td>
+                    </tr>
+                    <tr id="grinex-usdt-a7a5">
+                        <td class="exchange-name">GRINEX</td>
+                        <td class="pair">USDT/A7A5</td>
+                        <td class="bid price">-</td>
+                        <td class="ask price">-</td>
+                        <td class="spread">-</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="moex-section">
+            <h2>📈 MOEX Фьючерсы USD/RUB</h2>
+            <div class="table-container">
+                <table id="moexTable">
+                    <thead>
+                        <tr>
+                            <th>Биржа</th>
+                            <th>Контракт</th>
+                            <th>Цена последней сделки</th>
+                            <th>Объем (контрактов)</th>
+                            <th>Изменение</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr id="moex-usdrubf">
+                            <td class="moex-name">MOEX</td>
+                            <td class="pair">
+                                USDRUBF
+                                <span class="contract-type">Вечный фьючерс</span>
+                            </td>
+                            <td class="price">-</td>
+                            <td class="volume-info">-</td>
+                            <td class="change">-</td>
+                        </tr>
+                        <tr id="moex-si925">
+                            <td class="moex-name">MOEX</td>
+                            <td class="pair">
+                                Si-9.25
+                                <span class="contract-type">Экспирация: Сентябрь 2025</span>
+                            </td>
+                            <td class="price">-</td>
+                            <td class="volume-info">-</td>
+                            <td class="change">-</td>
+                        </tr>
+                        <tr id="moex-si1225">
+                            <td class="moex-name">MOEX</td>
+                            <td class="pair">
+                                Si-12.25
+                                <span class="contract-type">Экспирация: Декабрь 2025</span>
+                            </td>
+                            <td class="price">-</td>
+                            <td class="volume-info">-</td>
+                            <td class="change">-</td>
+                        </tr>
+                        <tr id="moex-si326">
+                            <td class="moex-name">MOEX</td>
+                            <td class="pair">
+                                Si-3.26
+                                <span class="contract-type">Экспирация: Март 2026</span>
+                            </td>
+                            <td class="price">-</td>
+                            <td class="volume-info">-</td>
+                            <td class="change">-</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="last-update">
+            <span class="status-indicator"></span>
+            Последнее обновление: <span id="lastUpdate">-</span>
+        </div>
+    </div>
+
+    <script>
+        const VOLUME_USD = 50000; // $50,000
+        const UPDATE_INTERVAL = 5000; // 5 seconds
+        const MOEX_BACKEND_URL = 'http://localhost:3001'; // URL backend сервера
+        
+        let moexServerOnline = false;
+        
+        // Функция для расчета средневзвешенной цены для заданного объема
+        function calculateWeightedPrice(orders, volumeUSDT, isBid = false) {
+            if (!orders || orders.length === 0) return null;
+            
+            let remainingVolume = volumeUSDT;
+            let totalCost = 0;
+            let totalVolume = 0;
+            
+            // Для bid сортируем по убыванию цены, для ask - по возрастанию
+            const sortedOrders = [...orders].sort((a, b) => {
+                const priceA = parseFloat(a[0]);
+                const priceB = parseFloat(b[0]);
+                return isBid ? priceB - priceA : priceA - priceB;
+            });
+            
+            for (const order of sortedOrders) {
+                const price = parseFloat(order[0]);
+                const volume = parseFloat(order[1]);
+                
+                if (remainingVolume <= 0) break;
+                
+                const volumeToTake = Math.min(volume, remainingVolume);
+                totalCost += price * volumeToTake;
+                totalVolume += volumeToTake;
+                remainingVolume -= volumeToTake;
+            }
+            
+            if (totalVolume === 0) return null;
+            
+            return totalCost / totalVolume;
+        }
+        
+        // Функция для форматирования числа
+        function formatNumber(num, decimals = 2) {
+            if (num === null || num === undefined) return '-';
+            return num.toFixed(decimals).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+        }
+        
+        // Функция для обновления ячейки таблицы криптобирж
+        function updateCryptoCell(rowId, bidPrice, askPrice) {
+            const row = document.getElementById(rowId);
+            if (!row) return;
+            
+            const bidCell = row.querySelector('.bid');
+            const askCell = row.querySelector('.ask');
+            const spreadCell = row.querySelector('.spread');
+            
+            if (bidPrice !== null && askPrice !== null) {
+                bidCell.textContent = formatNumber(bidPrice) + ' ₽';
+                askCell.textContent = formatNumber(askPrice) + ' ₽';
+                
+                const spread = ((askPrice - bidPrice) / bidPrice * 100).toFixed(2);
+                spreadCell.textContent = spread + '%';
+            } else {
+                bidCell.textContent = 'Ошибка';
+                askCell.textContent = 'Ошибка';
+                spreadCell.textContent = '-';
+            }
+        }
+
+        // Функция для обновления ячейки MOEX
+        function updateMoexCell(rowId, lastPrice, volume, change) {
+            const row = document.getElementById(rowId);
+            if (!row) return;
+            
+            const priceCell = row.querySelector('.price');
+            const volumeCell = row.querySelector('.volume-info');
+            const changeCell = row.querySelector('.change');
+            
+            if (lastPrice !== null) {
+                // Конвертируем цену за контракт в цену за 1 USD
+                const pricePerUSD = lastPrice / 1000; // 1 лот = 1000 USD
+                priceCell.textContent = formatNumber(pricePerUSD, 4) + ' ₽/USD';
+                volumeCell.textContent = volume ? formatNumber(volume, 0) + ' лотов' : '-';
+                
+                if (change !== null) {
+                    const changePercent = change.toFixed(2);
+                    changeCell.textContent = (change >= 0 ? '+' : '') + changePercent + '%';
+                    changeCell.style.color = change >= 0 ? '#3fb950' : '#f85149';
+                } else {
+                    changeCell.textContent = '-';
+                }
+            } else {
+                priceCell.textContent = 'Нет данных';
+                volumeCell.textContent = '-';
+                changeCell.textContent = '-';
+            }
+        }
+
+        // Функция для обновления статуса сервера
+        function updateServerStatus(online) {
+            moexServerOnline = online;
+            const statusEl = document.getElementById('serverStatus');
+            if (online) {
+                statusEl.className = 'server-status server-online';
+                statusEl.textContent = '🟢 MOEX сервер подключен и работает';
+            } else {
+                statusEl.className = 'server-status server-offline';
+                statusEl.textContent = '🔴 MOEX сервер недоступен. Запустите: node moex-backend-proxy.js';
+            }
+        }
+        
+        // Получение данных с RAPIRA
+        async function fetchRapiraData() {
+            try {
+                const response = await fetch('https://api.rapira.net/market/exchange-plate-mini?symbol=USDT/RUB');
+                const data = await response.json();
+                
+                if (data.ask && data.bid) {
+                    // RAPIRA использует структуру ask.items и bid.items
+                    const bidOrders = data.bid.items.map(item => [item.price, item.amount]);
+                    const askOrders = data.ask.items.map(item => [item.price, item.amount]);
+                    
+                    const bidPrice = calculateWeightedPrice(bidOrders, VOLUME_USD, true);
+                    const askPrice = calculateWeightedPrice(askOrders, VOLUME_USD, false);
+                    updateCryptoCell('rapira-usdt-rub', bidPrice, askPrice);
+                }
+            } catch (error) {
+                console.error('Ошибка при получении данных RAPIRA:', error);
+                updateCryptoCell('rapira-usdt-rub', null, null);
+            }
+        }
+        
+        // Получение данных с GRINEX
+        async function fetchGrinexData() {
+            try {
+                // USDT/RUB
+                const rubResponse = await fetch('https://grinex.io/api/v2/depth?market=usdtrub&limit=50');
+                const rubData = await rubResponse.json();
+                
+                if (rubData.asks && rubData.bids) {
+                    const bidPrice = calculateWeightedPrice(rubData.bids, VOLUME_USD, true);
+                    const askPrice = calculateWeightedPrice(rubData.asks, VOLUME_USD, false);
+                    updateCryptoCell('grinex-usdt-rub', bidPrice, askPrice);
+                }
+                
+                // USDT/A7A5
+                const a7a5Response = await fetch('https://grinex.io/api/v2/depth?market=usdta7a5&limit=50');
+                const a7a5Data = await a7a5Response.json();
+                
+                if (a7a5Data.asks && a7a5Data.bids) {
+                    const bidPrice = calculateWeightedPrice(a7a5Data.bids, VOLUME_USD, true);
+                    const askPrice = calculateWeightedPrice(a7a5Data.asks, VOLUME_USD, false);
+                    updateCryptoCell('grinex-usdt-a7a5', bidPrice, askPrice);
+                }
+            } catch (error) {
+                console.error('Ошибка при получении данных GRINEX:', error);
+                updateCryptoCell('grinex-usdt-rub', null, null);
+                updateCryptoCell('grinex-usdt-a7a5', null, null);
+            }
+        }
+
+        // Получение данных с MOEX через backend
+        async function fetchMoexData() {
+            try {
+                const response = await fetch(`${MOEX_BACKEND_URL}/api/moex/futures`);
+                
+                if (!response.ok) {
+                    throw new Error('Backend server not available');
+                }
+                
+                const result = await response.json();
+                updateServerStatus(true);
+                
+                if (result.data) {
+                    // Обновляем данные для каждого контракта
+                    const mapping = {
+                        'USDRUBF': 'moex-usdrubf',
+                        'Si-9.25': 'moex-si925',
+                        'Si-12.25': 'moex-si1225',
+                        'Si-3.26': 'moex-si326'
+                    };
+                    
+                    for (const [contract, rowId] of Object.entries(mapping)) {
+                        const data = result.data[contract];
+                        if (data) {
+                            updateMoexCell(rowId, data.last, data.volume, data.change);
+                        }
+                    }
+                }
+            } catch (error) {
+                console.error('Ошибка при получении данных MOEX:', error);
+                updateServerStatus(false);
+                
+                // Очищаем данные при ошибке
+                ['moex-usdrubf', 'moex-si925', 'moex-si1225', 'moex-si326'].forEach(rowId => {
+                    updateMoexCell(rowId, null, null, null);
+                });
+            }
+        }
+        
+        // Обновление времени последнего обновления
+        function updateLastUpdateTime() {
+            const now = new Date();
+            const timeString = now.toLocaleTimeString('ru-RU');
+            document.getElementById('lastUpdate').textContent = timeString;
+        }
+        
+        // Основная функция обновления данных
+        async function updateAllData() {
+            await Promise.all([
+                fetchRapiraData(),
+                fetchGrinexData(),
+                fetchMoexData()
+            ]);
+            updateLastUpdateTime();
+        }
+        
+        // Инициализация и запуск автообновления
+        document.addEventListener('DOMContentLoaded', () => {
+            updateAllData();
+            setInterval(updateAllData, UPDATE_INTERVAL);
+        });
+    </script>
+</body>
+</html>

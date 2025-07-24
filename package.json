@@ -1,0 +1,36 @@
+{
+  "name": "crypto-rates-monitor",
+  "version": "1.0.0",
+  "description": "Мониторинг курсов USDT на биржах RAPIRA и GRINEX с 24/7 сбором данных",
+  "main": "alternative-storage.js",
+  "scripts": {
+    "start": "node alternative-storage.js",
+    "dev": "node alternative-storage.js",
+    "local": "node alternative-storage.js",
+    "web": "node server.js",
+    "collector": "node crypto-data-collector.js"
+  },
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
+  "keywords": [
+    "crypto",
+    "monitoring",
+    "trading",
+    "arbitrage",
+    "rapira",
+    "grinex",
+    "moex"
+  ],
+  "author": "AI Crypto Monitoring System",
+  "license": "MIT",
+  "type": "commonjs"
+}
