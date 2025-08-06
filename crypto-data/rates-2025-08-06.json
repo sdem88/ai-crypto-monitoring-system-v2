@@ -70,5 +70,41 @@
       "error": "getaddrinfo ENOTFOUND api.garantex.org"
     },
     "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:55:00.124Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:55:29.818Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:55:59.822Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
   }
 ]
