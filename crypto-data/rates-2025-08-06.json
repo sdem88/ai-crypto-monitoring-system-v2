@@ -10,5 +10,65 @@
       "error": "getaddrinfo ENOTFOUND api.garantex.org"
     },
     "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:52:29.808Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:52:59.825Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:53:30.863Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:53:59.819Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
+  },
+  {
+    "timestamp": "2025-08-06T00:54:29.819Z",
+    "rapira": {
+      "exchange": "RAPIRA",
+      "error": "getaddrinfo ENOTFOUND api.rprsb.ru"
+    },
+    "grinex": {
+      "exchange": "GRINEX",
+      "error": "getaddrinfo ENOTFOUND api.garantex.org"
+    },
+    "arbitrage": null
   }
 ]
