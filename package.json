@@ -4,11 +4,12 @@
   "description": "Мониторинг курсов USDT на биржах RAPIRA и GRINEX с 24/7 сбором данных",
   "main": "alternative-storage.js",
   "scripts": {
-    "start": "node alternative-storage.js",
-    "dev": "node alternative-storage.js",
+    "start": "node railway-server.js",
+    "dev": "node railway-server.js",
     "local": "node alternative-storage.js",
-    "web": "node server.js",
-    "collector": "node crypto-data-collector.js"
+    "web": "node railway-server.js",
+    "collector": "node crypto-data-collector.js",
+    "railway": "node railway-server.js"
   },
   "dependencies": {
     "airtable": "^0.12.2",

@@ -1,0 +1,6370 @@
+[
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:00:26.753Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:00:27.481Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:00:28.203Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:00:28.739Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:00:28.935Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:00:29.131Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:00:29.328Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:00:56.724Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:00:57.450Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:00:58.174Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:00:58.727Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:00:58.918Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:00:59.113Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:00:59.476Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:01:26.759Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:01:27.441Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:01:28.143Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:01:28.860Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:01:29.053Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:01:29.247Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:01:29.441Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:01:56.719Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:01:57.460Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:01:58.206Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:01:58.737Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:01:58.945Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:01:59.312Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:01:59.505Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:02:26.768Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:02:27.485Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:02:28.195Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:02:28.735Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:02:28.928Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:02:29.122Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:02:29.484Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:02:56.751Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:02:57.597Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:02:58.313Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:02:58.857Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:02:59.046Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:02:59.236Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:02:59.425Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:03:26.771Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:03:27.498Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:03:28.174Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:03:28.716Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:03:28.910Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:03:29.103Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:03:29.295Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:03:56.741Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:03:57.443Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:03:58.164Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:03:58.862Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:03:59.054Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:03:59.411Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:03:59.774Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:04:26.743Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:04:27.372Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:04:28.078Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:04:28.609Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:04:28.800Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:04:29.007Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:04:29.202Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:04:56.873Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:04:57.590Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:04:58.295Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:04:58.820Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:04:59.015Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:04:59.209Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:04:59.402Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:05:26.755Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:05:27.557Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:05:28.279Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:05:28.823Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:05:29.015Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:05:29.212Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:05:29.406Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:05:56.843Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:05:57.599Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:05:57.901Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:05:58.450Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:05:58.658Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:05:58.881Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:05:59.079Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:06:26.716Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:06:27.482Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:06:28.159Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:06:28.694Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:06:28.886Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:06:29.076Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:06:29.268Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:06:56.756Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:06:57.541Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:06:58.265Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:06:58.809Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:06:59.001Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:06:59.197Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:06:59.391Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:07:26.753Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:07:27.542Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:07:28.221Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:07:30.987Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:07:31.181Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:07:31.374Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:07:31.566Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:07:56.709Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:07:57.460Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:07:58.165Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:07:58.708Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:07:58.905Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:07:59.100Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:07:59.292Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:08:26.722Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:08:27.464Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:08:27.751Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:08:28.298Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:08:28.491Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:08:28.683Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:08:28.875Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:08:56.717Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:08:57.467Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:08:58.207Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:08:58.755Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:08:58.948Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:08:59.144Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:08:59.343Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:09:26.711Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:09:27.708Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:09:28.434Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:09:28.974Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:09:29.166Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:09:29.359Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:09:29.550Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:09:56.701Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:09:57.418Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:09:58.119Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:09:58.654Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:09:58.852Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:09:59.215Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:09:59.409Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:10:26.710Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:10:27.439Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:10:28.158Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:10:28.703Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:10:28.893Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:10:29.091Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:10:29.281Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:10:56.708Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:10:57.487Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:10:58.187Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:10:58.720Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:10:58.914Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:10:59.106Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:10:59.298Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:11:26.709Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:11:27.426Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:11:27.661Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:11:28.198Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:11:28.387Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:11:28.596Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:11:28.794Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:11:56.715Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:11:57.405Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:11:58.090Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:11:58.625Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:11:58.814Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:11:59.001Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:11:59.949Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:12:26.880Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:12:27.588Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:12:28.317Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:12:28.857Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:12:29.049Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:12:29.240Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:12:29.432Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:12:56.700Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:12:57.432Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:12:58.201Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:12:58.904Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:12:59.092Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:12:59.282Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:12:59.473Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:13:26.734Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:13:27.463Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:13:28.146Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:13:28.687Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:13:28.879Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:13:29.071Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:13:29.264Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:13:56.731Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:13:57.468Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:13:58.213Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:13:58.754Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:13:59.118Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:13:59.316Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:13:59.515Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:14:26.724Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:14:27.440Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:14:28.203Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:14:28.736Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:14:28.927Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:14:29.119Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:14:29.311Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:14:56.746Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:14:57.465Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:14:58.188Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:14:58.735Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:14:58.931Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:14:59.126Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:14:59.320Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:15:26.747Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:15:27.556Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:15:28.299Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:15:28.833Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:15:29.030Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:15:29.221Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:15:29.415Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:15:56.737Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:15:57.750Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:15:58.480Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:15:59.009Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:15:59.201Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:15:59.988Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:16:00.181Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:16:26.715Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:16:27.359Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:16:28.030Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:16:28.564Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:16:28.754Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:16:28.948Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:16:29.308Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:16:56.746Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:16:57.464Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:16:58.131Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:16:58.673Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:16:58.867Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:16:59.059Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:16:59.254Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:17:26.723Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:17:27.339Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:17:28.061Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:17:28.602Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:17:28.966Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:17:29.162Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:17:29.357Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:17:56.755Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:17:57.433Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:17:58.164Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:17:58.729Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:17:58.924Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:17:59.115Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:17:59.314Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98,
+    "spread": 0.0293345089469495,
+    "timestamp": "2025-08-06T00:18:26.780Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:18:27.530Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:18:28.258Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:18:28.792Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:18:28.986Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:18:29.179Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:18:29.370Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98498597832102,
+    "spread": 0.03549336413745744,
+    "timestamp": "2025-08-06T00:18:56.886Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:18:57.602Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:18:58.268Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:18:58.803Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:18:58.994Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:18:59.184Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:18:59.377Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98523295288264,
+    "spread": 0.03579843577291616,
+    "timestamp": "2025-08-06T00:19:26.752Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:19:27.473Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:19:28.172Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:19:28.875Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:19:29.236Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:19:29.592Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:19:29.792Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98523295288264,
+    "spread": 0.03579843577291616,
+    "timestamp": "2025-08-06T00:19:56.730Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:19:57.466Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:19:58.198Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:19:58.731Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:19:58.920Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:19:59.112Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:19:59.304Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98603295288264,
+    "spread": 0.03678662381449397,
+    "timestamp": "2025-08-06T00:20:26.749Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:20:27.466Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:20:28.744Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:20:31.756Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:20:31.947Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:20:32.138Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:20:32.329Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98603295288264,
+    "spread": 0.03678662381449397,
+    "timestamp": "2025-08-06T00:20:56.696Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:20:57.395Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:20:58.116Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:20:58.659Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:20:58.849Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:20:59.060Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:20:59.256Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95625188104884,
+    "ask": 80.98603295288264,
+    "spread": 0.03678662381449397,
+    "timestamp": "2025-08-06T00:21:26.723Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:21:27.447Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:21:28.235Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:21:28.768Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:21:28.960Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:21:29.149Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:21:29.342Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9861369008204,
+    "spread": 0.04026711132575487,
+    "timestamp": "2025-08-06T00:21:56.726Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:21:57.440Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:21:58.112Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:21:58.800Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:21:58.987Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:21:59.176Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:21:59.366Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.98770765903231,
+    "spread": 0.0422074319423491,
+    "timestamp": "2025-08-06T00:22:26.702Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:22:27.573Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:22:28.299Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:22:28.840Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:22:29.031Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:22:29.226Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:22:29.415Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.98770765903231,
+    "spread": 0.0422074319423491,
+    "timestamp": "2025-08-06T00:22:56.741Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:22:57.459Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:22:58.173Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:22:58.707Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:22:58.896Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:22:59.089Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:22:59.279Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.98770765903231,
+    "spread": 0.0422074319423491,
+    "timestamp": "2025-08-06T00:23:26.765Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:23:27.488Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:23:28.212Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:23:28.775Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:23:28.965Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:23:29.157Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:23:29.347Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.98934263063023,
+    "spread": 0.044227073841998775,
+    "timestamp": "2025-08-06T00:23:56.729Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:23:57.478Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:23:58.230Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:23:58.771Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:23:58.961Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:23:59.153Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:23:59.348Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95410381884012,
+    "ask": 80.98934263063023,
+    "spread": 0.04352937050475702,
+    "timestamp": "2025-08-06T00:24:26.765Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:24:27.414Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:24:28.110Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:24:28.656Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:24:28.850Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:24:29.047Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:24:29.239Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95410381884012,
+    "ask": 80.98934263063023,
+    "spread": 0.04352937050475702,
+    "timestamp": "2025-08-06T00:25:26.738Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:25:27.462Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:25:28.141Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:25:28.679Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:25:28.871Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:25:29.059Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:25:29.253Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95410381884012,
+    "ask": 80.98934263063023,
+    "spread": 0.04352937050475702,
+    "timestamp": "2025-08-06T00:25:56.765Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:25:57.549Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:25:58.270Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:25:58.808Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:25:58.996Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:25:59.191Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:25:59.379Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.98934263063023,
+    "spread": 0.044227073841998775,
+    "timestamp": "2025-08-06T00:26:26.723Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:26:27.445Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:26:28.189Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:26:28.729Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:26:28.920Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:26:29.110Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:26:29.303Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95410381884012,
+    "ask": 80.98934263063023,
+    "spread": 0.04352937050475702,
+    "timestamp": "2025-08-06T00:24:56.720Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:24:57.464Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:26:38.370Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:26:38.560Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:26:38.736Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:26:38.915Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:26:56.738Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:26:57.071Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:26:57.808Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:26:58.336Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:26:58.530Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:26:58.731Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:26:58.928Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:27:26.752Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:27:27.721Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:27:28.421Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:27:28.947Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:27:29.142Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:27:29.338Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:27:29.533Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:27:56.717Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:27:57.422Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:27:58.138Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:27:58.664Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:27:58.860Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:27:59.051Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:27:59.246Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:28:26.774Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:28:27.493Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:28:28.342Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:28:28.871Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:28:29.063Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:28:29.261Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:28:29.455Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:28:56.745Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:28:57.470Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:28:58.212Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:28:58.737Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:28:58.935Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:28:59.135Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:28:59.333Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:29:26.720Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:29:27.423Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:29:28.369Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:29:28.886Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:29:29.075Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:29:29.268Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:29:29.455Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95353924904884,
+    "ask": 80.9896248806673,
+    "spread": 0.04457573066377344,
+    "timestamp": "2025-08-06T00:29:56.767Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:29:57.536Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:29:58.280Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:29:58.804Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:29:58.993Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:29:59.184Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:29:59.374Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99050868368037,
+    "spread": 0.046051404351804145,
+    "timestamp": "2025-08-06T00:30:26.757Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81.01,
+    "spread": 0.2847239415697004,
+    "timestamp": "2025-08-06T00:30:27.723Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:30:28.472Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:30:29.001Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:30:29.195Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:30:29.393Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:30:29.586Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99050868368037,
+    "spread": 0.046051404351804145,
+    "timestamp": "2025-08-06T00:30:56.762Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:30:57.487Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:30:58.183Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:30:58.701Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:30:58.898Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:30:59.093Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:30:59.452Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:31:26.915Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:31:27.786Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:31:28.668Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:31:29.183Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:31:29.375Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:31:29.565Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:31:29.759Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:32:26.751Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:32:27.554Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:32:28.410Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:32:28.932Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:32:29.124Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:32:29.332Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:32:29.522Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:32:56.752Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:32:57.522Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:32:58.209Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:32:58.723Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:32:58.922Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:32:59.114Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:32:59.307Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:33:26.738Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:33:27.453Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:33:28.303Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:33:31.051Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:33:31.246Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:33:31.442Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:33:31.637Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:31:56.740Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:33:37.914Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:33:38.435Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:33:38.631Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:33:38.824Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:33:39.016Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:33:56.782Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:33:57.747Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:33:58.490Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:33:59.014Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:33:59.376Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:33:59.568Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:33:59.772Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99171105819259,
+    "spread": 0.04792888180641609,
+    "timestamp": "2025-08-06T00:34:56.754Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:34:58.507Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:34:58.858Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:34:59.463Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:34:59.656Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:34:59.867Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:35:00.083Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99171105819259,
+    "spread": 0.04792888180641609,
+    "timestamp": "2025-08-06T00:35:26.746Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:35:27.481Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:35:28.367Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:35:28.888Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:35:29.080Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:35:29.277Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:35:29.467Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99171846742945,
+    "spread": 0.047938034333168955,
+    "timestamp": "2025-08-06T00:35:56.783Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:35:57.497Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:35:58.238Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:35:58.766Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:35:58.957Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:35:59.151Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:35:59.341Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95322858504883,
+    "ask": 80.99171105819259,
+    "spread": 0.047536674962048706,
+    "timestamp": "2025-08-06T00:34:26.759Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:36:07.861Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:36:08.396Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:36:08.568Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:36:08.751Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:36:08.928Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99173057901255,
+    "spread": 0.04795299560252798,
+    "timestamp": "2025-08-06T00:36:26.748Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:36:27.470Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:36:28.206Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:36:28.737Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:36:29.099Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:36:29.297Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:36:29.489Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99217513322348,
+    "spread": 0.04850214720703258,
+    "timestamp": "2025-08-06T00:36:56.747Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:36:57.475Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:36:58.428Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:36:58.957Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:36:59.154Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:36:59.345Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:36:59.536Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99217513322348,
+    "spread": 0.04850214720703258,
+    "timestamp": "2025-08-06T00:37:26.758Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:37:27.403Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:37:28.363Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:37:28.918Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:37:29.110Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:37:29.303Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:37:29.495Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99218530724175,
+    "spread": 0.04851471502963025,
+    "timestamp": "2025-08-06T00:37:56.785Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:37:57.712Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:37:58.462Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:37:59.017Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:37:59.212Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:37:59.409Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:37:59.600Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99218530724175,
+    "spread": 0.04851471502963025,
+    "timestamp": "2025-08-06T00:38:26.768Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:38:27.591Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:38:28.378Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:38:28.915Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:38:29.106Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:38:29.896Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:38:30.087Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99218530724175,
+    "spread": 0.04851471502963025,
+    "timestamp": "2025-08-06T00:38:56.734Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:38:57.459Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:38:57.702Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:38:58.243Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:38:58.447Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:38:58.651Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:38:58.862Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99218530724175,
+    "spread": 0.04851471502963025,
+    "timestamp": "2025-08-06T00:39:26.768Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:39:27.406Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:39:28.136Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:39:28.671Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:39:29.035Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:39:29.232Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:39:29.426Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99218530724175,
+    "spread": 0.04851471502963025,
+    "timestamp": "2025-08-06T00:39:56.750Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:39:57.373Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:39:58.137Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:39:58.667Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:39:58.856Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:39:59.046Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:39:59.240Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:40:26.775Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:40:27.490Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:40:28.203Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:40:28.929Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:40:29.295Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:40:29.488Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:40:29.683Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:40:56.782Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:40:57.534Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:40:58.252Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:40:58.799Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:40:58.997Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:40:59.190Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:40:59.384Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:41:26.751Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:41:27.640Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:41:28.371Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:41:28.923Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:41:29.119Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:41:29.315Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:41:29.516Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:41:56.837Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:41:57.710Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:41:58.467Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:41:59.012Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:41:59.371Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:41:59.565Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:41:59.760Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:42:26.754Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:42:27.499Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:42:28.219Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:42:28.755Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:42:28.944Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:42:29.303Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:42:29.498Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:42:56.934Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:42:57.702Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:42:57.951Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:42:58.657Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:42:58.849Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:42:59.041Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:42:59.246Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:43:26.751Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:43:27.427Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:43:28.141Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:43:28.674Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:43:28.867Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:43:29.056Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:43:29.248Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:43:56.916Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:43:57.698Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:43:58.459Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:43:59.003Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:43:59.196Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:43:59.387Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:43:59.580Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99298530724175,
+    "spread": 0.049502943850327115,
+    "timestamp": "2025-08-06T00:44:26.757Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:44:27.529Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:44:28.263Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:44:28.799Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:44:28.992Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:44:29.354Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:44:29.545Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99305791776287,
+    "spread": 0.049592638612392805,
+    "timestamp": "2025-08-06T00:44:56.751Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:44:57.471Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:44:58.217Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:44:58.770Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:44:58.962Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:44:59.154Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:44:59.344Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95291123304885,
+    "ask": 80.99305791776287,
+    "spread": 0.049592638612392805,
+    "timestamp": "2025-08-06T00:45:26.982Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:45:27.721Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:45:28.475Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:45:29.044Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:45:29.242Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:45:29.474Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:45:29.664Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95251123304885,
+    "ask": 80.99305791776287,
+    "spread": 0.05008700050982847,
+    "timestamp": "2025-08-06T00:45:56.831Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:45:57.712Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:45:58.583Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:45:59.121Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:45:59.311Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:45:59.502Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:45:59.699Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95251123304885,
+    "ask": 80.99305791776287,
+    "spread": 0.05008700050982847,
+    "timestamp": "2025-08-06T00:46:26.793Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:46:27.678Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:46:28.412Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:46:31.283Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:46:31.478Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:46:31.840Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:46:32.039Z"
+  },
+  {
+    "exchange": "RAPIRA",
+    "pair": "USDT/RUB",
+    "bid": 80.95251123304885,
+    "ask": 80.99305791776287,
+    "spread": 0.05008700050982847,
+    "timestamp": "2025-08-06T00:46:56.810Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/RUB",
+    "bid": 80.78,
+    "ask": 81,
+    "spread": 0.272344639762316,
+    "timestamp": "2025-08-06T00:46:57.593Z"
+  },
+  {
+    "exchange": "GRINEX",
+    "pair": "USDT/A7A5",
+    "bid": 80.739086846,
+    "ask": 80.97,
+    "spread": 0.285999214284441,
+    "timestamp": "2025-08-06T00:46:58.380Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "USDRUBF",
+    "bid": null,
+    "ask": null,
+    "last": 80.13,
+    "pricePerUSD": 0.08012999999999999,
+    "volume": 7649,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:46:58.919Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-9.25",
+    "bid": null,
+    "ask": null,
+    "last": 81128,
+    "pricePerUSD": 81.128,
+    "volume": 22767,
+    "change": 0.14,
+    "timestamp": "2025-08-06T00:46:59.112Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-12.25",
+    "bid": null,
+    "ask": null,
+    "last": 83962,
+    "pricePerUSD": 83.962,
+    "volume": 1087,
+    "change": 0.18,
+    "timestamp": "2025-08-06T00:46:59.304Z"
+  },
+  {
+    "exchange": "MOEX",
+    "pair": "Si-3.26",
+    "bid": null,
+    "ask": null,
+    "last": 86964,
+    "pricePerUSD": 86.964,
+    "volume": 7,
+    "change": 0.23,
+    "timestamp": "2025-08-06T00:46:59.495Z"
+  }
+]
